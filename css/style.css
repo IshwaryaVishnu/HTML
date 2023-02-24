@@ -12,9 +12,9 @@ html {
   height: 100%;
 }
 
-body {
-  display: flex;
-  justify-content: center;
+
+.right-image {
+  float: right;
 }
 
 .container {
